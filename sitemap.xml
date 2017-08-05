@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+     <loc>https://martinkaptein.github.io/</loc>
+     <lastmod>2017-08-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>https://martinkaptein.github.io/blog/hugo-with-travis-ci-on-gh-pages/</loc>
+     <lastmod>2017-08-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://martinkaptein.github.io/blog/exploring-google-deepdream/</loc>
+     <lastmod>2017-08-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://martinkaptein.github.io/blog/pythoncms/</loc>
+     <lastmod>2017-08-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://martinkaptein.github.io/blog/rachmaninoff-op39-no5-analysis/</loc>
+     <lastmod>2017-08-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://martinkaptein.github.io/blog/liszt-sonata-analysis/</loc>
+     <lastmod>2017-08-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+    <url>
+     <loc>https://martinkaptein.github.io/media/</loc>
+     <lastmod>2017-08-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://martinkaptein.github.io/contact/</loc>
+     <lastmod>2017-08-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+</urlset>
